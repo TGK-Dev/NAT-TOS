@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Terms And Services](terms-and-services.md)
-* [Privacy Policy](README.md)
-
+* [Terms And Services](README.md)
+* [Privacy Policy](privacy-policy.md)
